@@ -1,4 +1,4 @@
-name: arrcopy-build
+name: meanind-build
 
 on:
   push:
@@ -18,5 +18,5 @@ jobs:
         go-version: '1.24.1'
 
     - name: Build
-      run: go build -v cmd/arrcopy/main.go
+      run: go build -v cmd/meanind/main.go
     
