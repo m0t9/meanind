@@ -3,7 +3,7 @@
 [![coverage](https://raw.githubusercontent.com/m0t9/meanind/badges/.badges/master/coverage.svg)](https://github.com/m0t9/meanind/actions/workflows/.testcoverage.yml)
 [![build](https://github.com/m0t9/meanind/actions/workflows/go.yml/badge.svg)](https://github.com/m0t9/meanind/actions/workflows/go.yml)
 
-**meanind** (meaningful indexing) --- Go linter detecting confusing variable names for slice/array indexes in for-range loops.
+**meanind** (meaningful indexing) — Go linter detecting confusing variable names for slice/array indexes in for-range loops.
 
 ## Details
 
