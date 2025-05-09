@@ -1,4 +1,4 @@
-name: meanind-build
+name: build
 
 on:
   push:
